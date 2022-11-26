@@ -50,6 +50,7 @@
 	background-color: #202124;
 	width: 510px;
 	padding: 4px;
+	color: white;
 }
 br + input {
 	margin-top: 13px;
